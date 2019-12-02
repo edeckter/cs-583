@@ -1,0 +1,2 @@
+## CS-583 Final Project
+This repository contains code in support of the [Understanding Clouds from Satellite Images](https://www.kaggle.com/c/understanding_cloud_organization) Kaggle competition.  This project was used as my final project for CS-583 (Deep Learning) for the Fall 2019 semester at Stevens Institute.
